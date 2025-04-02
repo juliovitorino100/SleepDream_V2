@@ -202,6 +202,94 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHSTKSSM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SleepDream_V2\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=04 - GERBES\Test Points\Fabrication Testpoint Report for PCB1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=04 - GERBES\Test Points\Fabrication Testpoint Report for PCB1.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=04 - GERBES\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=04 - GERBES\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=04 - GERBES\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=04 - GERBES\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=04 - GERBES\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=04 - GERBES\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=04 - GERBES\Gerber\PCB1.GM
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=04 - GERBES\Gerber\PCB1.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=04 - GERBES\Gerber\PCB1.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=04 - GERBES\Gerber\PCB1.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=04 - GERBES\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=04 - GERBES\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=04 - GERBES\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=04 - GERBES\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=04 - GERBES\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=04 - GERBES\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=07 - 3D\PCB1.step
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=04 - GERBES\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=04 - GERBES\Report Board Stack\PCB1.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
